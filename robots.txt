@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://twiefrec.github.io/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/app/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/assets/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/css/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/data/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/includes/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/item/sitemap.html.gz
+Sitemap: https://twiefrec.github.io/src/sitemap.html.gz
